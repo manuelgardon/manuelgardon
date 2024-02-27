@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hola! 👋</h1>
+  <h3>
+    Mi nombre es Manuel Gardón, soy Desarrollador de Software Full Stack y apasionado por la tecnología 💻
+  </h3>
+</div>
 
-<!--
-**nologrd/nologrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
+<ul>
+  <p>
+    ⚒️ Actualmente construyendo en el equipo de FK Tech Solutions Factory en Buenos Aires, Argentina
+  </p>
+  <p>
+    🚀 Realicé la carrera <a href="https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer">Certified Tech Developer</a> en Digital House
+  </p>
+  <p>
+    🤖 Iniciando la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
+  </p>
+  <p>
+    🎯 Mi nuevo objetivo es aportar a proyectos de código abierto
+  </p>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+> ℹ️ Podés contactarme mediante <a href="https://www.linkedin.com/in/manuelgardon/">LinkedIn</a>, o enviándome un <a href="mailto:manugardon801@gmail.com">email</a> 😄
